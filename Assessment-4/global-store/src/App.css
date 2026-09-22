@@ -1,0 +1,22 @@
+#root {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
